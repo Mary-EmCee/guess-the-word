@@ -8,7 +8,7 @@ const remainingGuesses = document.querySelector(".remaining");
 const remainingDisplay = document.querySelector("span");
 const message = document.querySelector(".message");
 const playAgainButton = document.querySelector(".play-again");
-let word = "magnolia";
+let word = "pizza";
 const usedLetters = [];
 let guessesRemaining = 8;
 
